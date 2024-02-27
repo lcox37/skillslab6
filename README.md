@@ -1,3 +1,4 @@
 # skillslab6
-this is skills lab 6
-hooray
+Logan Cox and Nick Cheddar
+
+Our code takes your name and then ....
